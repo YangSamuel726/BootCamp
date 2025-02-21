@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\02.21_Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{620A7A37-3484-42F6-94F3-2203E62F01C2}|02.21_Study\\02.21_Study.csproj|c:\\users\\ljjlm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\bootcamp_repository\\bootcamp\\02.21_study\\02.21_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620A7A37-3484-42F6-94F3-2203E62F01C2}|02.21_Study\\02.21_Study.csproj|solutionrelative:02.21_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\02.21_Study\\02.21_Study\\Program.cs",
+              "RelativeDocumentMoniker": "02.21_Study\\Program.cs",
+              "ToolTip": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\02.21_Study\\02.21_Study\\Program.cs",
+              "RelativeToolTip": "02.21_Study\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:54:40.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
