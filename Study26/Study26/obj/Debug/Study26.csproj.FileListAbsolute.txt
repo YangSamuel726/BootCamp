@@ -1,0 +1,7 @@
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study26\Study26\bin\Debug\Study26.exe.config
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study26\Study26\bin\Debug\Study26.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study26\Study26\bin\Debug\Study26.pdb
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study26\Study26\obj\Debug\Study26.csproj.AssemblyReference.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study26\Study26\obj\Debug\Study26.csproj.CoreCompileInputs.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study26\Study26\obj\Debug\Study26.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study26\Study26\obj\Debug\Study26.pdb

@@ -1,0 +1,7 @@
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPG\TextRPG\bin\Debug\TextRPG.exe.config
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPG\TextRPG\bin\Debug\TextRPG.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPG\TextRPG\bin\Debug\TextRPG.pdb
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPG\TextRPG\obj\Debug\TextRPG.csproj.AssemblyReference.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPG\TextRPG\obj\Debug\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPG\TextRPG\obj\Debug\TextRPG.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPG\TextRPG\obj\Debug\TextRPG.pdb

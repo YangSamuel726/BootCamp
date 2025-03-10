@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D26A8FB-C9FA-4045-995D-CED7864D56F1}|\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30.csproj|c:\\users\\ljjlm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\bootcamp_repository\\bootcamp\\\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D26A8FB-C9FA-4045-995D-CED7864D56F1}|\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30.csproj|solutionrelative:\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\Program.cs",
+              "RelativeDocumentMoniker": "\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\Program.cs",
+              "ToolTip": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\Program.cs",
+              "RelativeToolTip": "\uBAA8\uD5D8\uAC00\uD0A4\uC6B0\uAE30\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:03:24.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study17\Study17\bin\Debug\Study17.exe.config
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study17\Study17\bin\Debug\Study17.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study17\Study17\bin\Debug\Study17.pdb
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study17\Study17\obj\Debug\Study17.csproj.AssemblyReference.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study17\Study17\obj\Debug\Study17.csproj.CoreCompileInputs.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study17\Study17\obj\Debug\Study17.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\Study17\Study17\obj\Debug\Study17.pdb

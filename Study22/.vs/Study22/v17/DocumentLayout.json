@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\Study22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9595EB-2143-43FF-B0E8-B2F334E0E894}|Study22\\Study22.csproj|c:\\users\\ljjlm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\bootcamp_repository\\bootcamp\\study22\\study22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9595EB-2143-43FF-B0E8-B2F334E0E894}|Study22\\Study22.csproj|solutionrelative:study22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\Study22\\Study22\\Program.cs",
+              "RelativeDocumentMoniker": "Study22\\Program.cs",
+              "ToolTip": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\Study22\\Study22\\Program.cs",
+              "RelativeToolTip": "Study22\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwFUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:18:44.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

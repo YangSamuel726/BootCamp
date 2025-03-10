@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\0305TodayTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F23FBA30-49A9-408A-9591-046BE0FAAA48}|0305TodayTask\\0305TodayTask.csproj|c:\\users\\ljjlm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\bootcamp_repository\\bootcamp\\0305todaytask\\0305todaytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23FBA30-49A9-408A-9591-046BE0FAAA48}|0305TodayTask\\0305TodayTask.csproj|solutionrelative:0305todaytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\0305TodayTask\\0305TodayTask\\Program.cs",
+              "RelativeDocumentMoniker": "0305TodayTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\0305TodayTask\\0305TodayTask\\Program.cs",
+              "RelativeToolTip": "0305TodayTask\\Program.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAvwKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:42:02.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

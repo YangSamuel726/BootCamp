@@ -1,0 +1,7 @@
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\0224TodayTask\0224TodayTask\bin\Debug\0224TodayTask.exe.config
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\0224TodayTask\0224TodayTask\bin\Debug\0224TodayTask.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\0224TodayTask\0224TodayTask\bin\Debug\0224TodayTask.pdb
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\0224TodayTask\0224TodayTask\obj\Debug\0224TodayTask.csproj.AssemblyReference.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\0224TodayTask\0224TodayTask\obj\Debug\0224TodayTask.csproj.CoreCompileInputs.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\0224TodayTask\0224TodayTask\obj\Debug\0224TodayTask.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\0224TodayTask\0224TodayTask\obj\Debug\0224TodayTask.pdb

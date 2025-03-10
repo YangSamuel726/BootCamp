@@ -1,0 +1,7 @@
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPGTest\TextRPGTest\bin\Debug\TextRPGTest.exe.config
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPGTest\TextRPGTest\bin\Debug\TextRPGTest.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPGTest\TextRPGTest\bin\Debug\TextRPGTest.pdb
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPGTest\TextRPGTest\obj\Debug\TextRPGTest.csproj.AssemblyReference.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPGTest\TextRPGTest\obj\Debug\TextRPGTest.csproj.CoreCompileInputs.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPGTest\TextRPGTest\obj\Debug\TextRPGTest.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\멋사 부트 캠프\BootCamp_Repository\BootCamp\TextRPGTest\TextRPGTest\obj\Debug\TextRPGTest.pdb

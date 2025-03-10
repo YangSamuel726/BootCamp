@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\BrickGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB49010-384A-48F7-8AF5-1F2E132C0FA9}|BrickGame\\BrickGame.csproj|c:\\users\\ljjlm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\bootcamp_repository\\bootcamp\\brickgame\\brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB49010-384A-48F7-8AF5-1F2E132C0FA9}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB49010-384A-48F7-8AF5-1F2E132C0FA9}|BrickGame\\BrickGame.csproj|c:\\users\\ljjlm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\bootcamp_repository\\bootcamp\\brickgame\\brickgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB49010-384A-48F7-8AF5-1F2E132C0FA9}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB49010-384A-48F7-8AF5-1F2E132C0FA9}|BrickGame\\BrickGame.csproj|c:\\users\\ljjlm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\bootcamp_repository\\bootcamp\\brickgame\\brickgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB49010-384A-48F7-8AF5-1F2E132C0FA9}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB49010-384A-48F7-8AF5-1F2E132C0FA9}|BrickGame\\BrickGame.csproj|c:\\users\\ljjlm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\bootcamp_repository\\bootcamp\\brickgame\\brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB49010-384A-48F7-8AF5-1F2E132C0FA9}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\BrickGame\\BrickGame\\GameManager.cs",
+              "RelativeDocumentMoniker": "BrickGame\\GameManager.cs",
+              "ToolTip": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\BrickGame\\BrickGame\\GameManager.cs",
+              "RelativeToolTip": "BrickGame\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:23:05.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BALLDATA.cs",
+              "DocumentMoniker": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\BrickGame\\BrickGame\\BALLDATA.cs",
+              "RelativeDocumentMoniker": "BrickGame\\BALLDATA.cs",
+              "ToolTip": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\BrickGame\\BrickGame\\BALLDATA.cs",
+              "RelativeToolTip": "BrickGame\\BALLDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:46:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\BrickGame\\BrickGame\\Ball.cs",
+              "RelativeDocumentMoniker": "BrickGame\\Ball.cs",
+              "ToolTip": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\BrickGame\\BrickGame\\Ball.cs",
+              "RelativeToolTip": "BrickGame\\Ball.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvz0AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:46:39.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\BrickGame\\BrickGame\\Program.cs",
+              "RelativeDocumentMoniker": "BrickGame\\Program.cs",
+              "ToolTip": "C:\\Users\\ljjlm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBA4B\uC0AC \uBD80\uD2B8 \uCEA0\uD504\\BootCamp_Repository\\BootCamp\\BrickGame\\BrickGame\\Program.cs",
+              "RelativeToolTip": "BrickGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:46:21.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
